@@ -9,10 +9,10 @@ Clonar el repositorio:
 git clone 
 Dentro del directorio del proyecto:
 
-npm i
+"npm i"
 después:
 
-npm run dev
+"npm run dev"
 Por último, abra su navegador y visite http://localhost:5174 para ver la aplicación.
 
 en este proyecto se trabajo una gran parte de lo aprendio en el curso : html ,javascript etc
